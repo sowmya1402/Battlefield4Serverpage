@@ -1,0 +1,43 @@
+.image-grid {
+    display: grid;
+    margin: 10px;
+    
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px; 
+  }
+  
+  .image-card {
+    position: relative;
+    width: 200px;
+    height: 100px;
+    background-color: transparent; 
+  }
+  
+  .image-card img {
+    width: 200px;
+    height: 55px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    transition: top 0.2s ease-in-out; 
+  }
+  
+  
+  .image-text {
+    position: absolute;
+    bottom: 0;
+    width: 200px;
+    height: 50px;
+    text-align: left;
+    padding-left: 0px;
+    background-color:  rgba(0, 0, 0, 0.70); 
+  }
+
+ 
+  
+.image-text:hover{
+  background-color: white;
+  color: black;
+}
+
+

@@ -1,0 +1,92 @@
+.right-sidebar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100vh;
+  width: 50px; 
+  background-color: transparent;
+  transition: width 0.2s ease-in-out, background-color 0.2s ease-in-out; 
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-top: 10px;
+}
+
+.right-sidebar.expanded {
+  width: 200px; 
+  background-color: rgba(0, 0, 0, 0.8); 
+}
+
+.sidebar-section {
+  width: 100%;
+  padding: 10px;
+  transition: opacity 0.2s ease-in-out, border-bottom 0.2s ease-in-out; 
+  border-bottom: 1px solid transparent; 
+}
+
+.sidebar-section.expanded {
+  border-bottom: 1px solid #666; 
+}
+
+.status-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; 
+}
+
+.status-top {
+  display: flex;
+  align-items: center; 
+  margin-bottom: 10px; 
+}
+
+.status-sym {
+  width: 10px; 
+  height: 10px; 
+  margin-right: 10px; 
+}
+
+.status-icon {
+  
+  width: 40px; 
+  height: 40px; 
+  margin-right:10px; 
+}
+
+.section-title {
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  margin: 0; 
+}
+
+.user-info {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+
+.user {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: flex-start;
+}
+
+.username {
+  color: white;
+  font-size: 14px;
+}
+
+.status {
+  color: white;
+  font-size: 12px;
+}
+
+.user:hover {
+  background-color: white; 
+}
+
+.user:hover .username, .user:hover .status {
+  color: black; 
+}
