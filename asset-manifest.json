@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Battlefield4Serverpage/static/css/main.a2c476c6.css",
+    "main.js": "/Battlefield4Serverpage/static/js/main.f5643207.js",
+    "static/js/488.ef0c430d.chunk.js": "/Battlefield4Serverpage/static/js/488.ef0c430d.chunk.js",
+    "static/media/menu_background.png": "/Battlefield4Serverpage/static/media/menu_background.cf5ce3ac0a2a66b6bff2.png",
+    "static/media/rajdhani-devanagari-400-normal.woff2": "/Battlefield4Serverpage/static/media/rajdhani-devanagari-400-normal.6c9e66e639fb808aad84.woff2",
+    "static/media/rajdhani-devanagari-400-normal.woff": "/Battlefield4Serverpage/static/media/rajdhani-devanagari-400-normal.8b68e16985b8ddab3239.woff",
+    "static/media/map3.png": "/Battlefield4Serverpage/static/media/map3.ddb88ed854acc9e0ca56.png",
+    "static/media/map4.png": "/Battlefield4Serverpage/static/media/map4.d9a9bf365c7df827f025.png",
+    "static/media/map2.png": "/Battlefield4Serverpage/static/media/map2.9e2caff7afe01c34d728.png",
+    "static/media/map5.png": "/Battlefield4Serverpage/static/media/map5.bd6bb3f45f56c47ff152.png",
+    "static/media/map1.png": "/Battlefield4Serverpage/static/media/map1.49fcc17204b52330a5ae.png",
+    "static/media/rajdhani-latin-400-normal.woff2": "/Battlefield4Serverpage/static/media/rajdhani-latin-400-normal.7a7983e943008b42789d.woff2",
+    "static/media/rajdhani-latin-ext-400-normal.woff2": "/Battlefield4Serverpage/static/media/rajdhani-latin-ext-400-normal.d920ea8ee9c011bae86d.woff2",
+    "static/media/rajdhani-latin-400-normal.woff": "/Battlefield4Serverpage/static/media/rajdhani-latin-400-normal.f91233009b8248d846f5.woff",
+    "static/media/rajdhani-latin-ext-400-normal.woff": "/Battlefield4Serverpage/static/media/rajdhani-latin-ext-400-normal.e2bf801e950e34d94964.woff",
+    "index.html": "/Battlefield4Serverpage/index.html",
+    "main.a2c476c6.css.map": "/Battlefield4Serverpage/static/css/main.a2c476c6.css.map",
+    "main.f5643207.js.map": "/Battlefield4Serverpage/static/js/main.f5643207.js.map",
+    "488.ef0c430d.chunk.js.map": "/Battlefield4Serverpage/static/js/488.ef0c430d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2c476c6.css",
+    "static/js/main.f5643207.js"
+  ]
+}
